@@ -1,3 +1,5 @@
-module.exports = (value) => {
-    return value
+module.exports = (arr, condition) => {
+    arr.filter((item) => {
+        return item.search.includes(condition+'')
+    })
 }
