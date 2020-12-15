@@ -1,6 +1,6 @@
 {
     "name": "tvofiller", 
-    "version": "1.0.5", 
+    "version": "1.0.7", 
     "description": "Library Filler Data in Array", 
     "main": "src/index.js", 
     "scripts": { 
